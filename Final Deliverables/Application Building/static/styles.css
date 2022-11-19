@@ -1,0 +1,7 @@
+#prediction {
+    color: white;
+
+    /* the first value is the width 
+    and the second value is the color */
+    -webkit-text-stroke: 0.7px ; 
+}
